@@ -29,3 +29,16 @@ Stack(either implement as Linear array and as Linked list) :
 •	Pop  
 •	Display Top of the stack
 
+
+6. Write a program to demonstrate the use of stack in converting arithmetic expression from infix notation to postfix notation and in evaluating arithmetic postfix expression.
+
+
+7. Menu driven Program to demonstrate the implementation of various operations on a Circular queue (using a linear array and  a linked list).
+
+
+8. Write a program to accept N numbers in an array, and then sort the array using Insertion Sort. Then accept a number from the user and insert it in the array according to the sequential order.
+
+
+9. Write a program to accept N numbers in an array, and then sort the array using Quick Sort.
+
+
