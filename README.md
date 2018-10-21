@@ -42,19 +42,21 @@ Stack(either implement as Linear array and as Linked list) :
 9. Write a program to accept N numbers in an array, and then sort the array using Quick Sort.
 
 
-10.Write a program to accept N numbers from the user in one array and M numbers in another array. Then, sort the arrays using Selection   Sort and then merge these two arrays using Merge Sort.
-
- 11.Write a menu driven program that implements the following operations on a   
- Binary search tree :
-      •	Insert a new element 
-      •	Delete an existing element
-      •	Traversing the tree
-            o	Pre-order Traversal
-            o	In-order Traversal 
-            o	Post-order Traversal
+10. Write a program to accept N numbers from the user in one array and M numbers in another array. Then, sort the arrays using Selection Sort and then merge these two arrays using Merge Sort.
 
 
-12.Sort the list of integers using heap tree (Heap sort).
+11. Write a menu driven program that implements the following operations on a   
+Binary search tree :
+•	Insert a new element 
+•	Delete an existing element
+•	Traversing the tree
+o	Pre-order Traversal
+o	In-order Traversal 
+o	Post-order Traversal
+
+
+12. Sort the list of integers using heap tree (Heap sort)
+
 
  
  
