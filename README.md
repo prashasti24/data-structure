@@ -58,6 +58,9 @@ o	Post-order Traversal
 12. Sort the list of integers using heap tree (Heap sort)
 
 
+13. Program including all Operations on Graph and illustrate the traversals using DFS and BFS
+
+
  
  
 
